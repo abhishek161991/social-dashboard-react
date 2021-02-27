@@ -10,6 +10,7 @@ const firebaseConfig = {
    */
 };
 
+
 ReactDOM.render(
   <FirebaseAppProvider firebaseConfig={firebaseConfig}>
     <React.StrictMode>
